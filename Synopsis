@@ -1,1 +1,65 @@
+JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY.
+
+DATA STRUCTURES PROJECT SYNOPSIS.
+
+TEAM MEMBERS:
+•	ANKUR KESHARWANI – 9916103095
+•	NIKHIL KANYAL – 9916103167
+•	NIPUNIKA SRIVASTAVA – 9916103059
+•	SAKSHAM GUPTA – 9916103036
+
+       THE WAR CARD GAME
+
+INTRODUCTION
+GOAL
+
+The goal is to be the first player to win all 52 cards.
+
+THE DEAL
+
+The deck is divided evenly, with each player receiving 26 cards, dealt one at a time, face down. Anyone may deal first. Each player places his stack of cards face down, in front of him.
+
+THE PLAY
+
+Each player turns up a card at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom of his stack.
+
+If the cards are the same rank, it is War. Each player turns up one card face down and one card face up. The player with the higher cards takes both piles (six cards). If the turned-up cards are again the same rank, each player places another card face down and turns another card face up. The player with the higher card takes all 10 cards, and so on.
+
+HOW TO KEEP SCORE 
+
+The game ends when one player has won all the cards.
+
+STEPS REQUIRED TO MAKE THE GAME
+
+1) Declaring 52 cards :
+
+2) Giving 26 unique cards to player:
+
+3) Giving the other 26 unique cards to computer
+
+4) Shuffling the player's 26 cards
+
+5) Shuffling the computer's 26 cards
+
+6) Reveal player and computer's cards
+
+7) Distribute points & Dispose of cards
+
+8) Pause, type yes  to continue
+
+TECHNICAL DETAILS
+
+The program WAR CARD GAME 	has been made on cpp language.
+
+It uses different aspects of cpp language as it uses the object oriented feature of cpp 
+
+programming consisting of various classes and objects.These classes are used in
+  
+the program to create various constructors and methods for setting cards, getting
+ 
+value,display etc. Also it has used the cpp STL(Standard Template Library) for its 
+
+ efficient use.The most used Data Structure in our program is the the Array used to 
+
+ store the values of different cards efficiently.
 
